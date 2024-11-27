@@ -115,10 +115,10 @@ header {
       display: block;
       padding: 8px 28px;
       border-bottom: 3px solid transparent;
+      transition: 0.3s;
     }
     li a.active,
     li a:hover {
-      transition: 0.3s;
       background-color: #0000000f;
       border-radius: 5px;
       border-bottom-color: #00000046;
