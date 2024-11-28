@@ -178,7 +178,7 @@ header {
     transform: scaleX(-1);
   }
   &::before {
-    background: url("../assets/images/hero-img.png") no-repeat center center /
+    background: url("../assets/images/hero-img.webp") no-repeat center center /
       cover;
   }
   &::after {
