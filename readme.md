@@ -15,7 +15,7 @@ This is a responsive website for a solar panel installation company. The website
 
 ## Features
 
-- Responsive design for various screen sizes
+- Responsive design for various screen sizes (mobile-first)
 - Informative sections about services, products, and company values
 - Contact section with phone number and call-to-action buttons
 - Subscription form for the latest news
